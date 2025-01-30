@@ -1,9 +1,11 @@
 ---
-title: "About"
+about:
+  template: solana
+  image: headshot.png
 ---
 
-About this site
+## Marvin King
 
-```{r}
-1 + 1
-```
+About me....
+
+<center>[**marvin\@olemiss.edu**](mailto:marvin@olemiss.edu)</center>

@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Data Dashboard\nLink to Application\nFeatures an introduction to different data on inequality, voting, healthcare, and more for various topics, including inequality, income shares, healthcare expenditures, voter turnout and more. Use the tabs above to navigate through the different sections.\n\n\nClass Survey Tool\nLink to Application\nFacilitates live surveys via Google Forms…\n\n\nCollege Sports\nThese tools do…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mking-site",
+    "title": "Marvin King",
     "section": "",
-    "text": "Shiny Dashboard"
+    "text": "Welcome to Dr. King’s website…"
+  },
+  {
+    "objectID": "classes.html",
+    "href": "classes.html",
+    "title": "Classes",
+    "section": "",
+    "text": "Resources\n\nGuide to the APSA Citation Format"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Marvin King",
+    "section": "",
+    "text": "About me….\n\nmarvin@olemiss.edu"
+  },
+  {
+    "objectID": "about.html#marvin-king",
+    "href": "about.html#marvin-king",
+    "title": "Marvin King",
+    "section": "",
+    "text": "About me….\n\nmarvin@olemiss.edu"
   }
 ]

@@ -1,0 +1,19 @@
+---
+title: "Resources"
+---
+
+# Data Dashboard
+
+[Link to Application](https://01949177-2ccc-ffe2-3233-5a7c0dade354.share.connect.posit.cloud/)
+
+Features an introduction to different data on inequality, voting, healthcare, and more for various topics, including inequality, income shares, healthcare expenditures, voter turnout and more. Use the tabs above to navigate through the different sections.
+
+# Class Survey Tool
+
+[Link to Application](https://0194aaac-8a80-73ac-40c1-e3c77b2dd524.share.connect.posit.cloud/)
+
+Facilitates live surveys via Google Forms...
+
+# College Sports
+
+These tools do...

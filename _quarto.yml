@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "mking-site"
+  title: "Marvin King"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: classes.qmd
+        text: Classes
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About
+      
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 
