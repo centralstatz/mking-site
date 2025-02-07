@@ -1,0 +1,13 @@
+---
+title: "398 - Study USA"
+format: html
+---
+
+# Resources
+
+- [Guide to the APSA Citation Format](https://static1.squarespace.com/static/6175920475097a732cd0ae90/t/6644eab7fe72bb2d5b644b3b/1715792567078/APSA+Style+Guide.pdf)
+- [Link to resource 2]()....
+
+# Survey
+
+[Class Survey](https://docs.google.com/forms/d/e/1FAIpQLScP3766W9xhidr5f8I_WfGB64aZ5uXeIErItu-tzH11rMiCZQ/viewform?usp=header)

@@ -8,12 +8,31 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: classes.qmd
-        text: Classes
+      - text: Courses
+        menu: 
+          - text: "101 - Intro"
+            href: classes/101.qmd
+          - text: "313 - Federalism"
+            href: classes/313.qmd   
+          - text: "315 - Political Inequality"
+            href: classes/315.qmd
+          - text: "318 - Southern Politics"
+            href: classes/318.qmd
+          - text: "320 - African American Politics"
+            href: classes/320.qmd
+          - text: "370 - African American Law"
+            href: classes/370.qmd
+          - text: "371 - Protest Politics"
+            href: classes/371.qmd
+          - text: "398 - Study USA"
+            href: classes/398.qmd
+          - text: "LIBA"
+            href: classes/liba.qmd
       - href: resources.qmd
         text: Resources
       - href: about.qmd
         text: About
+        
       
 format:
   html:
