@@ -10,4 +10,4 @@ format: html
 
 # Survey
 
-[Class Survey](https://docs.google.com/forms/d/e/1FAIpQLScP3766W9xhidr5f8I_WfGB64aZ5uXeIErItu-tzH11rMiCZQ/viewform?usp=header)
+[Class Survey](https://docs.google.com/forms/d/e/1FAIpQLSep8TusWkAGpDUnc3QiyBxAp8UY8PiZov3tpo6IV3mifcigsA/viewform?usp=header)
