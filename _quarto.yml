@@ -26,6 +26,8 @@ website:
             href: classes/371.qmd
           - text: "398 - Study USA"
             href: classes/398.qmd
+          - text: "480 - Senior Seminar"
+            href: classes/480.qmd
           - text: "LIBA"
             href: classes/liba.qmd
       - href: resources.qmd
